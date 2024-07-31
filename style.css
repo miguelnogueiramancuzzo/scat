@@ -1,0 +1,54 @@
+.imgtitulo{
+
+ width: 25%;
+ 
+
+}
+
+.cab{
+
+text-align: center;
+background-color: rgb(235, 235, 70);
+justify-content: baseline;
+background-image: linear-gradient(rgb(237, 222, 90), rgb(251, 251, 4));
+
+}
+
+.sec{
+
+    background-color: rgb(251, 251, 4);
+    background-image: linear-gradient(rgb(251, 251, 4), white);
+}
+
+
+
+.imgtit{
+
+    width: 20%;
+    background-color: white;
+}
+
+.imgtit2{
+
+width: 10%;
+background-color: white;
+
+}
+
+.imgtit3{
+
+width: 15%;
+
+}
+
+.fot{
+
+text-align: center;
+
+}
+
+.sec2{
+
+ text-align: center;
+
+}
